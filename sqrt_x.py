@@ -4,5 +4,4 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        import math
-        return int(math.floor(x**0.5))
+        return int(x**0.5)
